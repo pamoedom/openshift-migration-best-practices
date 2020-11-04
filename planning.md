@@ -25,7 +25,7 @@ This section focuses on considerations to review when you plan your migration.
 
 ### Migration Toolkit for Containers
 
-The Migration Toolkit for Containers (MTC) migrates an application workload, including  Kubernetes resources, data, and images, from an OpenShift 3 source cluster to an OpenShift 4 target cluster.
+The Migration Toolkit for Containers (MTC) migrates an application workload, including Kubernetes resources, data, and images, from an OpenShift 3 source cluster to an OpenShift 4 target cluster.
 
 MTC performs the migration in two stages:
 
