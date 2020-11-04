@@ -31,7 +31,6 @@ In OpenShift 4 we have an operator marketplace with different categories dependi
 |Certified Operators|Products from leading independent software vendors (ISVs). Red Hat partners with ISVs to package and ship. Supported by the ISV.|
 |Community Operators|Optionally-visible software maintained by relevant representatives in the [operator-framework/community-operators](https://github.com/operator-framework/community-operators) GitHub repository. No official support.|
 |Custom Operators|Operators you add to the cluster yourself. If you have not added any Custom Operators, the Custom category does not appear in the Web console on your OperatorHub.|
-|||
 
 **Operators maturity levels**
 
